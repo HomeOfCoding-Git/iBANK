@@ -11,4 +11,6 @@ however, allow for "less secure apps"
 
 You will receive a security message,
 follow the path to turn on "less secure apps"
+
+The purpose of this email account is for sending out unique pin numbers to users.
 """
